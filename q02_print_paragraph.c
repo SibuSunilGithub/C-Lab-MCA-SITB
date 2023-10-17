@@ -1,4 +1,4 @@
-// Use a single printf statement to print the folling paragraph:
+// Use a single printf statement to print the following paragraph:
 /*
 Good Day!!!
 He shared his "wisdom" with me
